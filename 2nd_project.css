@@ -1,0 +1,145 @@
+
+
+
+i{ 
+    color: blue;
+    margin-top: 50px;
+    margin-right: 10px;
+   
+}
+
+h6{
+    margin-top: 30px;
+}
+.bg-mint{
+    background-color: #f2f3f3 !important;
+}
+.inbox1{
+    height: 500px;text-align: center;
+    padding: 70px;
+}
+#banner{
+    margin: 0px;
+    background-image: url(pic10.jpg) ;
+    background-size: cover;
+    /* background-size: 100% auto; */
+    background-repeat: no-repeat;
+   background-position: center;
+}
+.h1{
+    color: rgb(123, 173, 123);
+}
+.h2{
+    color: #f2f3f3
+}
+.h6{
+    color:#f2f3f3 ; 
+}
+#color{
+    color: #f2f3f3;
+}
+#sec1{
+    background-color: rgb(236, 215, 227);
+    /* height: 300px; */
+    padding: 20px;
+    }
+
+#center{
+    text-align: center;
+}
+ #sec2{
+        margin-top:60px;
+    }
+    .inbox5{
+        margin-left: 0px;
+    }
+    #calender{
+        color: black;
+    }
+    #sheild{
+        color: black;
+    }
+
+    #circle{
+        color: black;
+    }
+  .btn{
+    text-decoration: none;
+  }
+  @media(max-width:468px){
+    .inbox2,.inbox3,.inbox4{
+        width: 100%;
+    }
+  }
+  .inbox2{
+    height: 300px; 
+  }
+  .inbox3{
+    height: 300px; 
+  }
+  .inbox4{
+    height: 300px; 
+  }
+ #black{
+    color: black;
+ }
+ .link{
+    text-decoration: none;
+ }
+ .inbox9{
+    padding: 50px;
+    text-align: center;
+ }
+ .sec3{
+    background-color: #f5f3f4;
+ }
+ .inbox10{
+    text-align: center;
+ }
+ .inbox11{
+    text-align: center;
+ }
+ .inbox12{
+    text-align: center;
+ }
+ .sec6{
+    text-align:center;
+    background-color: darkcyan;
+    color: #f2f3f3;
+ }
+ .sec7{
+    text-align: center;
+ }
+ #white{
+    color: white;
+ }
+ #LOGIN{
+    color: black;
+    
+ }
+ .mint{
+    margin-top: -30px;
+ }
+ .sec5{
+    padding-bottom:40px ;
+ }
+ .sec8{
+    background-color: black;
+    text-align: center;
+    color: #f2f3f3;
+ }
+ .sec9{
+    text-align: center;
+    background-color: black;
+    color: #f2f3f3;
+ }
+ #ff{
+    color: #f2f3f3;
+ }
+ #mark{
+    background-color: black;
+    color: blue;
+ }
+ .sec10{
+    background-color: black;
+ }
